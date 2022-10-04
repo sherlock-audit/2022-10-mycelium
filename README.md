@@ -9,12 +9,12 @@
 
 # Resources
 
-TBD
+* [myLINK Contracts](https://github.com/Evert0x/repo-example)
 
 # Audit scope
 
-TBD
+Everything in the `src` folder [@ 431b23](https://github.com/mycelium-ethereum/link-staking/tree/431b23dc05cb2951901a94870dc09c45f1e4d86f) is in scope.
 
-# About Mycelium
+# About Mycelium myLINK
 
-TBD
+Mycelium myLINK provides a way for users to stake their LINK tokens and earn yield on them through a variety of plugins to the myLINK Vault. Users receive myLINK tokens which are exchangable 1:1 with LINK and their balance rebases as yield is generated.
