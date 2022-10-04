@@ -13,7 +13,7 @@ N/A
 
 # Audit scope
 
-Everything in the `src` folder.
+Everything in the `mylink-contracts` folder.
 
 # About Mycelium myLINK
 
