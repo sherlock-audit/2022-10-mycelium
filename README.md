@@ -9,7 +9,7 @@
 
 # Resources
 
-* [myLINK Contracts](https://github.com/Evert0x/repo-example)
+* [myLINK Contracts](https://github.com/mycelium-ethereum/link-staking)
 
 # Audit scope
 
