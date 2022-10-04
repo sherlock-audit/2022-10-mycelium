@@ -9,12 +9,14 @@
 
 # Resources
 
-TBD
+N/A
 
 # Audit scope
 
-TBD
+Everything in the `mylink-contracts/src` folder.
 
-# About Mycelium
+Tests are run with [foundry](https://github.com/foundry-rs/foundry) using `forge test` or the NPM test script.
 
-TBD
+# About Mycelium myLINK
+
+Mycelium myLINK provides a way for users to deposit their LINK tokens and earn yield on them through a variety of plugins to the myLINK Vault. Users receive myLINK tokens which are exchangable 1:1 with LINK and their balance rebases as yield is generated.
