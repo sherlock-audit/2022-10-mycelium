@@ -1,7 +1,7 @@
 pragma solidity ^0.8.9;
 
 import "forge-std/Test.sol";
-import "../../src/Plugins/AaveV2Plugin.sol";
+import "../../src/plugins/AaveV2Plugin.sol";
 import "./Token.sol";
 import "./StubLendingPool.sol";
 
