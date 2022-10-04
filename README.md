@@ -13,7 +13,7 @@ N/A
 
 # Audit scope
 
-Everything in the `mylink-contracts` folder.
+Everything in the `mylink-contracts/src` folder.
 
 Tests are run with [foundry](https://github.com/foundry-rs/foundry) using `forge test` or the NPM test script.
 
