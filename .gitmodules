@@ -1,3 +1,6 @@
 [submodule "mylink-contracts/lib/openzeppelin-contracts"]
 	path = mylink-contracts/lib/openzeppelin-contracts
 	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "mylink-contracts/lib/solmate"]
+	path = mylink-contracts/lib/solmate
+	url = https://github.com/transmissions11/solmate
