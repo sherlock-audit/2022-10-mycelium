@@ -9,11 +9,11 @@
 
 # Resources
 
-* [myLINK Contracts](https://github.com/mycelium-ethereum/mylink-contracts)
+N/A
 
 # Audit scope
 
-Everything in the `src` folder [@ 431b23](https://github.com/mycelium-ethereum/mylink-contracts/tree/431b23dc05cb2951901a94870dc09c45f1e4d86f) is in scope.
+Everything in the `src` folder.
 
 # About Mycelium myLINK
 
