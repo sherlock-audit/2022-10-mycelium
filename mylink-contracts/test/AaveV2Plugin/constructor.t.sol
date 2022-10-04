@@ -1,6 +1,6 @@
 pragma solidity ^0.8.9;
 
-import "../../src/Plugins/AaveV2Plugin.sol";
+import "../../src/plugins/AaveV2Plugin.sol";
 import "../utils/AaveV2PluginTest.sol";
 
 contract AaveV2Plugin_constructorTest is AaveV2PluginTest {
